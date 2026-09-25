@@ -1,0 +1,16 @@
+# Python compilé
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
